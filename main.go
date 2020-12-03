@@ -82,6 +82,7 @@ func main() {
 		zap.L().Error("init snowflake failed", zap.Error(err))
 		return
 	}
+
 	// 5. 注册路由
 	r := router.Setup(settings.Conf.Mode)
 
