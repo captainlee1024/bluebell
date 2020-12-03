@@ -16,9 +16,9 @@ require (
 	github.com/go-playground/validator/v10 v10.2.0
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-sql-driver/mysql v1.5.0
-	github.com/jessevdk/go-flags v1.4.0 // indirect
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/juju/ratelimit v1.0.1
+	github.com/magiconair/properties v1.8.1
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/onsi/ginkgo v1.14.1 // indirect
@@ -28,7 +28,6 @@ require (
 	github.com/stretchr/testify v1.4.0
 	github.com/swaggo/gin-swagger v1.2.0
 	github.com/swaggo/swag v1.6.7
-	github.com/uber/go-torch v0.0.0-20181107071353-86f327cc820e // indirect
 	go.uber.org/zap v1.10.0
 	golang.org/x/net v0.0.0-20201010224723-4f7140c49acb // indirect
 	golang.org/x/sys v0.0.0-20201005172224-997123666555 // indirect
