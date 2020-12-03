@@ -38,8 +38,13 @@ jobs:
       - name: Test
         run: go test -v ./...
 
+      - name: Coverage test
+        run: go test -race ./... -coverprofile=coverage.txt -covermode=atomic
+
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v1.0.15
         with:
           token: ${{secrets.CODECOV_TOKEN}}
-          file: ./coverage.txt
+          #file: ./coverage.xml
+          #directory: ./coverage/reports/
+          #path_to_write_report: ./coverage/codecov_report.txt
