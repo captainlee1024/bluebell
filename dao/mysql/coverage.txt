@@ -1,12 +1,4 @@
 mode: atomic
-github.com/captainlee1024/bluebell/dao/mysql/community.go:10.72,12.57 2 0
-github.com/captainlee1024/bluebell/dao/mysql/community.go:20.2,20.8 1 0
-github.com/captainlee1024/bluebell/dao/mysql/community.go:12.57,13.27 1 0
-github.com/captainlee1024/bluebell/dao/mysql/community.go:13.27,18.4 2 0
-github.com/captainlee1024/bluebell/dao/mysql/community.go:23.92,29.59 3 0
-github.com/captainlee1024/bluebell/dao/mysql/community.go:34.2,34.29 1 0
-github.com/captainlee1024/bluebell/dao/mysql/community.go:29.59,30.27 1 0
-github.com/captainlee1024/bluebell/dao/mysql/community.go:30.27,32.4 1 0
 github.com/captainlee1024/bluebell/dao/mysql/mysql.go:16.50,31.16 3 1
 github.com/captainlee1024/bluebell/dao/mysql/mysql.go:38.2,40.8 3 1
 github.com/captainlee1024/bluebell/dao/mysql/mysql.go:31.16,34.3 2 0
@@ -32,3 +24,11 @@ github.com/captainlee1024/bluebell/dao/mysql/user.go:58.26,61.3 1 0
 github.com/captainlee1024/bluebell/dao/mysql/user.go:62.16,65.3 1 0
 github.com/captainlee1024/bluebell/dao/mysql/user.go:68.28,71.3 1 0
 github.com/captainlee1024/bluebell/dao/mysql/user.go:75.60,80.2 4 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:10.72,12.57 2 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:20.2,20.8 1 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:12.57,13.27 1 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:13.27,18.4 2 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:23.92,29.59 3 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:34.2,34.29 1 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:29.59,30.27 1 0
+github.com/captainlee1024/bluebell/dao/mysql/community.go:30.27,32.4 1 0

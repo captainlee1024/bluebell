@@ -116,4 +116,5 @@ func main() {
 	}
 
 	zap.L().Info("Server exiting")
+
 }
